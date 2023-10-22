@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/responsive-word-counter/static/css/main.31d6cfe0.css",
+    "main.js": "/responsive-word-counter/static/js/main.aa1c34b1.js",
+    "index.html": "/responsive-word-counter/index.html",
+    "main.aa1c34b1.js.map": "/responsive-word-counter/static/js/main.aa1c34b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.aa1c34b1.js"
+  ]
+}
